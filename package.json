@@ -1,0 +1,9 @@
+{
+  "name": "github-tab-extension",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:CasheeeewNuts/github-tab-extension.git",
+  "author": "CasheeeewNuts <casheeeewnuts+tech@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
