@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "github-editor-tab",
+  "version": "0.1.0",
+  "content_scripts": [
+    {
+      "matches": ["https://github.com/*"],
+      "js": ["index.js"],
+      "run_at": "document_idle"
+    }
+  ]
+}
